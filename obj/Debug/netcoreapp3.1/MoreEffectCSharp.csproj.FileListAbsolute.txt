@@ -1,0 +1,13 @@
+D:\Csharp\MoreEffectCSharp\bin\Debug\netcoreapp3.1\MoreEffectCSharp.exe
+D:\Csharp\MoreEffectCSharp\bin\Debug\netcoreapp3.1\MoreEffectCSharp.deps.json
+D:\Csharp\MoreEffectCSharp\bin\Debug\netcoreapp3.1\MoreEffectCSharp.runtimeconfig.json
+D:\Csharp\MoreEffectCSharp\bin\Debug\netcoreapp3.1\MoreEffectCSharp.runtimeconfig.dev.json
+D:\Csharp\MoreEffectCSharp\bin\Debug\netcoreapp3.1\MoreEffectCSharp.dll
+D:\Csharp\MoreEffectCSharp\bin\Debug\netcoreapp3.1\MoreEffectCSharp.pdb
+D:\Csharp\MoreEffectCSharp\obj\Debug\netcoreapp3.1\MoreEffectCSharp.csprojAssemblyReference.cache
+D:\Csharp\MoreEffectCSharp\obj\Debug\netcoreapp3.1\MoreEffectCSharp.AssemblyInfoInputs.cache
+D:\Csharp\MoreEffectCSharp\obj\Debug\netcoreapp3.1\MoreEffectCSharp.AssemblyInfo.cs
+D:\Csharp\MoreEffectCSharp\obj\Debug\netcoreapp3.1\MoreEffectCSharp.csproj.CoreCompileInputs.cache
+D:\Csharp\MoreEffectCSharp\obj\Debug\netcoreapp3.1\MoreEffectCSharp.dll
+D:\Csharp\MoreEffectCSharp\obj\Debug\netcoreapp3.1\MoreEffectCSharp.pdb
+D:\Csharp\MoreEffectCSharp\obj\Debug\netcoreapp3.1\MoreEffectCSharp.genruntimeconfig.cache
